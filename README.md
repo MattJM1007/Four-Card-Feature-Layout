@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Solution URL](https://github.com/MattJM1007/Four-Card-Feature-Layout)
+[Live Site URL](https://mattjm1007.github.io/Four-Card-Feature-Layout/)
 
 ## My process
 
