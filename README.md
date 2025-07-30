@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL](https://github.com/MattJM1007/Four-Card-Feature-Layout)
-[Live Site URL](https://mattjm1007.github.io/Four-Card-Feature-Layout/)
+- [Solution URL](https://github.com/MattJM1007/Four-Card-Feature-Layout)
+- [Live Site URL](https://mattjm1007.github.io/Four-Card-Feature-Layout/)
 
 ## My process
 
@@ -39,6 +39,10 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+
+### UPDATE 2025
+
+Refactored the html and css to apply new skills I have acquired and more robust code
 
 ### What I learned
 
