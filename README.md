@@ -1,6 +1,6 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -13,7 +13,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
 
 ## Overview
 
@@ -29,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+[Solution URL](https://github.com/MattJM1007/Four-Card-Feature-Layout)
+[Live Site URL](https://mattjm1007.github.io/Four-Card-Feature-Layout/)
 
 ## My process
 
@@ -45,7 +44,6 @@ Users should be able to:
 
 How to use grid to make it responsive.
 
-
 ### Continued development
 
 Keep getting better at responsiveness and not setting fixed widths
@@ -53,4 +51,3 @@ Keep getting better at responsiveness and not setting fixed widths
 ## Author
 
 - Frontend Mentor - [@MattJM1007](https://www.frontendmentor.io/profile/MattJM1007)
-
